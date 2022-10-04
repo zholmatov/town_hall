@@ -21,6 +21,7 @@ header {
 }
 header img {
 	float: left;
+	padding-top: 30px;
 	padding-left: 30px;
 	padding-right: 30px;
 }
@@ -45,15 +46,15 @@ main h1 {
 	font-size: 150%;
 	border-top: 3px solid #931420;
 	border-bottom: 3px solid #931420;
-	padding-top: .3em;
-	padding-bottom: .3em;
+	/* padding-top: .3em;
+	padding-bottom: .3em; */
 }
 
 main h2 {
 	font-size: 130%;
 	color: #800000;
-	padding-top:.5em;
-	padding-bottom: .25em;
+	/* padding-top:.5em;
+	padding-bottom: .25em; */
 }
 
 main h3 {
@@ -65,7 +66,7 @@ main > img {
 }
 
 main p {
-	padding-bottom: .5em;
+	/* padding-bottom: .5em; */
 }
 
 main blockquote {
